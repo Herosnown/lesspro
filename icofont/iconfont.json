@@ -1,0 +1,23 @@
+{
+  "id": "1410589",
+  "name": "呵呵",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1638356",
+      "name": "旗帜",
+      "font_class": "qizhi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7120443",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    }
+  ]
+}
