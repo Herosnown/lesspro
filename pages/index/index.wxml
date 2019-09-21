@@ -1,0 +1,53 @@
+<!-- index.wxml -->
+<swiper indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="white" autoplay interval="2000" circular>
+  <swiper-item>
+    <image src="../../uploads/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_3.jpg"></image>
+  </swiper-item>
+</swiper>
+<view class="title">乐园活动</view>
+<view>
+  <navigator>
+    <image src="../../uploads/item_1.png"></image>
+  </navigator>
+  <view class="bottext">
+    <view class="firtext">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <view class="sedtext">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="rigtext">免费</view>
+  </view>
+</view>
+<view>
+  <navigator>
+    <image src="../../uploads/item_1.png"></image>
+  </navigator>
+  <view class="bottext">
+    <view class="firtext">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <view class="sedtext">
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="rigtext">免费</view>
+  </view>
+</view>
+<view>
+  <navigator>
+    <image src="../../uploads/item_1.png"></image>
+  </navigator>
+  <view class="bottext">
+    <view class="firtext">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <view class="sedtext">
+      <text class="icon iconfont icon-qizhi"></text>
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="rigtext">免费</view>
+  </view>
+</view>

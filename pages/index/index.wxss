@@ -1,0 +1,54 @@
+/**index.wxss**/
+
+swiper {
+    height: 320rpx;
+}
+
+swiper image {
+    height: 320rpx;
+    width: 750rpx;
+}
+
+.title {
+    font-size: 28rpx;
+    padding: 20rpx 30rpx;
+}
+
+navigator image {
+    width: 750rpx;
+    height: 320rpx;
+}
+
+.bottext {
+    padding: 16rpx 130rpx 0 30rpx;
+    box-sizing: border-box;
+    height: 180rpx;
+    width: 750rpx;
+    position: relative;
+    margin-bottom: 20rpx;
+    background-color: white;
+}
+
+.firtext {
+    width: 590rpx;
+    font-size: 30rpx;
+}
+
+.sedtext {
+    font-size: 22rpx;
+    position: absolute;
+    bottom: 22rpx;
+    color: #B4B4B4;
+}
+
+.sedtext text {
+    margin-right: 60rpx;
+}
+
+.rigtext {
+    font-size: 32rpx;
+    position: absolute;
+    right: 30rpx;
+    top: 20rpx;
+    color: #FE6249;
+}
